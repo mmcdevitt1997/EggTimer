@@ -147,6 +147,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="progressBar" destination="8b9-33-6yh" id="yJU-FI-t51"/>
                         <outlet property="titleLable" destination="XLm-5r-pSP" id="nsI-1Q-29c"/>
                     </connections>
                 </viewController>
